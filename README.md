@@ -23,3 +23,6 @@
 ![StackOverNani10 github stats](https://github-readme-stats.vercel.app/api?username=StackOverNani10&theme=white&hide_border=false&include_all_commits=false&count_private=false)
 ![StackOverNani10 github stats](https://github-readme-streak-stats.herokuapp.com/?user=StackOverNani10&theme=white&hide_border=false)<br/>
 ![StackOverNani10 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=StackOverNani10&theme=white&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=StackOverNani10&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
